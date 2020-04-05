@@ -82,11 +82,3 @@ del df['airport_NO']
 del df['waterbody_None']
 
 df.head()
-
-x=df[['price']]
-
-y=df['Sold']
-
-x.head()
-
-y.head()
